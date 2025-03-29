@@ -1,0 +1,3 @@
+/Users/huzhehan/Desktop/🎮Course/Render-C++/SkyTiles/cmake-build-debug/CMakeFiles/zhehan_hu_render_assignment.dir
+/Users/huzhehan/Desktop/🎮Course/Render-C++/SkyTiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/huzhehan/Desktop/🎮Course/Render-C++/SkyTiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

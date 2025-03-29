@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "zhehan_hu_render_assignment",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "zhehan_hu_render_assignment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zhehan_hu_render_assignment-Debug-89a78403c24914b8e880.json",
+					"name" : "zhehan_hu_render_assignment",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/huzhehan/Desktop/\ud83c\udfaeCourse/Render-C++/SkyTiles/cmake-build-debug",
+		"source" : "/Users/huzhehan/Desktop/\ud83c\udfaeCourse/Render-C++/SkyTiles"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
